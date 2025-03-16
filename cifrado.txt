@@ -1,0 +1,4 @@
+clave
+401514
+mensaje cifrado
+80 81 95 92 84 88 
